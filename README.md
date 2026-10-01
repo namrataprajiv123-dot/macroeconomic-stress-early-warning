@@ -47,6 +47,6 @@ I fit a logistic regression as the baseline and a random forest next to it. Both
 
 
 
-Rebuilt with AI-assisted code review. Data from the OECD, accessed through FRED.
+. Data from the OECD, accessed through FRED.
 
 Namrata P Rajiv, BSc Economics, Mathematics and Statistics, CHRIST (Deemed to be University).
