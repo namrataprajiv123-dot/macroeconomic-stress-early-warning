@@ -2,7 +2,7 @@
 An empirical machine-learning early-warning model for identifying future GDP contractions in India.
 # Early warning of GDP contractions in India
 
-I and my friend Manasa C Atul,  built the first version of this for the CHRIST University research competition, where it placed first. This version rebuilds it on official data and tests it properly out of sample. 
+I and my friend Manasa C Atul,  built the first version of this for the CHRIST University research competition, where it placed first. 
 I have since rebuilt it on official data and tested it out of sample.
 Next steps: add a term-spread variable and test horizons of 1, 3 and 6 months.
 Acknowledgements
