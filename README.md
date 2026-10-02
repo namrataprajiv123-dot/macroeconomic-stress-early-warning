@@ -3,8 +3,9 @@ An empirical machine-learning early-warning model for identifying future GDP con
 # Early warning of GDP contractions in India
 
 I and my friend Manasa C Atul,  built the first version of this for the CHRIST University research competition, where it placed first. This version rebuilds it on official data and tests it properly out of sample. 
-This project was developed by the authors with external guidance on machine-learning methodology and advanced Python implementation, including model specification, validation and technical aspects of the analysis.
 Following feedback on the initial framework, the ongoing extension focuses on addressing methodological limitations identified in the current version. These include improving the treatment of data availability and publication lags, expanding the information set beyond the current set of indicators, and conducting more extensive robustness and out-of-sample evaluation across alternative specifications and prediction horizons.
+Acknowledgements
+The project was developed by the us, with technical guidance from Prof. Varun , on Python implementation and the use of machine-learning packages, including model specification and implementation
 
 ## Question
 
