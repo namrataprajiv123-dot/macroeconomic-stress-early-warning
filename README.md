@@ -6,7 +6,7 @@ I and my friend Manasa C Atul,  built the first version of this for the CHRIST U
 I have since rebuilt it on official data and tested it out of sample.
 Next steps: add a term-spread variable and test horizons of 1, 3 and 6 months.
 Acknowledgements
-The project was developed by the us, with technical guidance from Prof. Varun , on Python implementation and the use of machine-learning packages, including model specification and implementation
+The project was developed by the us, with technical guidance from
 
 ## Question
 
